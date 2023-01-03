@@ -1,5 +1,5 @@
 # joke-generator
-> Simple chrome extension website for copy paste history.
+> Created random joke generator using API.
 > Live demo [_here_](https://joke-generator-two.vercel.app/).
 
 ## Table of Contents
